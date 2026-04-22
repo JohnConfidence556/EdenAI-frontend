@@ -76,20 +76,6 @@ export default function ReturningPage() {
     }
   }
 
-  // ============================================
-  // RENDER
-
-    } catch (err) {
-      setError("Something went wrong. Please try again.")
-    } finally {
-      setIsLoading(false)
-    }
-  }
-
-  // ============================================
-  // RENDER
-  // ============================================
-
   return (
     <div className="min-h-screen bg-shepherd-dark">
       <Navbar />
