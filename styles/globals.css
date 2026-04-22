@@ -1,26 +1,21 @@
+/* Import Tailwind v4 */
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Define Shepherd's custom brand colors */
+/* @theme is Tailwind v4's way of defining custom values */
+/* These replace what used to go in tailwind.config.js */
+@theme {
+  --color-shepherd-dark:        #0A0A0F;
+  --color-shepherd-card:        #13131A;
+  --color-shepherd-border:      #2A2A3A;
+  --color-shepherd-purple:      #7C3AED;
+  --color-shepherd-purpleLight: #9F67FF;
+  --color-shepherd-gold:        #F59E0B;
+  --color-shepherd-text:        #E2E8F0;
+  --color-shepherd-muted:       #94A3B8;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Make the page background match our dark theme */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #0A0A0F;
 }
