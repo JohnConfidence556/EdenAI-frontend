@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+python-dotenv
+beautifulsoup4
+requests
+supabase
+langchain-text-splitters
+pypdf
