@@ -1,112 +1,67 @@
-📄 SERMON DATASET (5 SUNDAYS — RAG READY FORMAT)
+These are the teachings or sermons from the beginning of the year 2026.
 
-You can copy this directly into a .txt or .md file.
+THE KINGDOM SERIES (3 Parts – January)
 
-SERMON 1
+1. Dispensation of God’s Kingdom
+2. The Portrait of the Kingdom
+3. The Priestly Kingdom
 
-Title: Fear Not
-Date: March 2024
-Preacher: Apostle (Name not specified)
 
-Summary:
-This sermon focused on overcoming fear through faith in God. The message emphasized that fear is not just emotional but spiritual, and it can limit a believer’s growth and obedience.
+THE EXCELLENT STUDENT SERIES (4 Parts)
+(Academic series for students)
 
-Key Points:
 
-Fear is a spirit and not from God
-Perfect love casts out fear
-Faith is the antidote to fear
-Renewing the mind with God’s word builds courage
+HOW SHALL THESE THINGS BE
+(An exhortation)
 
-Scriptures:
 
-2 Timothy 1:7
-1 John 4:18
-SERMON 2
+WALKING IN OBEDIENCE
 
-Title: Walking in Purpose
-Date: April 2024
-Preacher: Apostle (Name not specified)
 
-Summary:
-This sermon explained how believers can identify and walk in their God-given purpose. It stressed intentionality, focus, and obedience to divine direction.
+KNOWING GOD
 
-Key Points:
 
-Every believer has a divine assignment
-Purpose must be discovered, not assumed
-Distraction is a major enemy of destiny
-Obedience unlocks fulfillment of purpose
+THE LOVE ZONE
+(Matters on love and relationships)
 
-Scriptures:
 
-Jeremiah 29:11
-Ephesians 2:10
-SERMON 3
+THE BASIS FOR HEALING
+(Why a believer should be healed and how to receive healing)
 
-Title: The Power of Prayer
-Date: May 2024
-Preacher: Apostle (Name not specified)
 
-Summary:
-This sermon highlighted prayer as a vital spiritual discipline that strengthens believers and aligns them with God’s will.
 
-Key Points:
+HOW TO WIN AT LIFE (3 Parts)
 
-Prayer is communication with God
-Consistency in prayer builds spiritual strength
-Prayer changes situations and the believer
-Jesus modeled a life of prayer
 
-Scriptures:
+THE FATHERHOOD OF GOD
 
-Luke 18:1
-Philippians 4:6
-SERMON 4
 
-Title: Faith That Moves Mountains
-Date: June 2024
-Preacher: Apostle (Name not specified)
+TEMPTATION SERIES
 
-Summary:
-This message focused on the nature of strong faith and how believers can activate results through unwavering trust in God.
+* The Science of Temptation
+* The Psychology of Temptations
+  (Thoughts, imaginations, high things, strongholds)
 
-Key Points:
 
-Faith is confidence in God’s promises
-Doubt weakens spiritual results
-Speaking God’s word activates faith
-Faith grows through hearing the Word
+Q&A SERIES (March Edition)
 
-Scriptures:
 
-Matthew 17:20
-Hebrews 11:1
-SERMON 5
+GOD’S RESTING PLACE
 
-Title: Living in Love
-Date: July 2024
-Preacher: Apostle (Name not specified)
 
-Summary:
-This sermon emphasized love as the foundation of Christian living and spiritual maturity.
+THE MINISTRY OF THE ANOINTED AND THE ANOINTING
+(Recognition of the anointing upon a man and connecting to receive answers)
 
-Key Points:
 
-Love is the greatest commandment
-Love reflects God’s nature
-Forgiveness is an expression of love
-Love strengthens unity in the body of Christ
+WALKING IN VICTORY
 
-Scriptures:
 
-1 Corinthians 13:4–7
-John 13:34
-💡 Why this format works well for RAG
+THE CROSS SERIES
 
-This structure helps you:
+* The Foolishness of the Cross
+* Protocol of Redemption and Exchange at the Cross
 
-Retrieve by topic (faith, fear, prayer, etc.)
-Retrieve by date (March vs April sermons)
-Retrieve by scripture reference
-Avoid mixing multiple sermons in one embedding chunk
+
+LET THE FIRE FALL
+
+HOW TO HEAL THE SICK
