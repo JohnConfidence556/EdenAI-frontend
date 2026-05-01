@@ -5,14 +5,14 @@
 /* @theme is Tailwind v4's way of defining custom values */
 /* These replace what used to go in tailwind.config.js */
 @theme {
-  --color-shepherd-dark:        #0A0A0F;
-  --color-shepherd-card:        #13131A;
-  --color-shepherd-border:      #2A2A3A;
-  --color-shepherd-purple:      #7C3AED;
-  --color-shepherd-purpleLight: #9F67FF;
-  --color-shepherd-gold:        #F59E0B;
-  --color-shepherd-text:        #E2E8F0;
-  --color-shepherd-muted:       #94A3B8;
+  --color-shepherd-dark:        #020B18;
+  --color-shepherd-card:        #051628;
+  --color-shepherd-border:      #0D2D4F;
+  --color-shepherd-purple:      #1565C0;
+  --color-shepherd-purpleLight: #1E88E5;
+  --color-shepherd-gold:        #FFC107;
+  --color-shepherd-text:        #F0F4FF;
+  --color-shepherd-muted:       #90A4AE;
 }
 
 /* Make the page background match our dark theme */

@@ -327,7 +327,7 @@ export default function ChatPage() {
 
           {/* HELPER TEXT */}
           <p className="text-shepherd-muted text-xs text-center mt-2">
-            Shepherd is an AI companion. For urgent matters contact the church directly.
+            Eden is an AI companion. For urgent matters contact the church directly.
           </p>
 
         </div>

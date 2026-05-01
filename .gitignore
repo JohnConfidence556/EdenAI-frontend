@@ -41,3 +41,5 @@ next-env.d.ts
 node_modules/
 .next/
 .env.local
+backend/__pycache__/
+backend/venv/

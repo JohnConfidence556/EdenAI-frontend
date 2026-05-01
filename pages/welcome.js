@@ -156,7 +156,7 @@ export default function WelcomePage() {
           <div className="text-center mb-10">
             <div className="text-5xl mb-4">🕊️</div>
             <h1 className="text-3xl font-bold text-shepherd-text mb-2">
-              Welcome to Shepherd
+              Welcome to Eden
             </h1>
             <p className="text-shepherd-muted">
               Let us know who you are so we can serve you better 🙏
@@ -251,7 +251,7 @@ export default function WelcomePage() {
               className="w-full bg-shepherd-purple hover:bg-shepherd-purpleLight disabled:opacity-50 disabled:cursor-not-allowed text-white py-4 rounded-xl font-semibold text-lg transition-colors duration-200"
             >
               {/* Show different text based on loading state */}
-              {isLoading ? "Joining..." : "Join Shepherd 🙏"}
+              {isLoading ? "Joining..." : "Join Eden 🙏"}
             </button>
 
             {/* RETURNING USER LINK */}
